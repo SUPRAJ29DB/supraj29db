@@ -1,4 +1,4 @@
-# Hi, I'm Suprakash 👋
+# Hi, I'm Supraakash 👋
 
 I'm a **B.Tech Computer Science student specializing in Artificial Intelligence & Machine Learning** at IEM Newtown. I enjoy building practical software and exploring how AI can solve real-world problems—from computer vision and data analysis to productivity tools, games, and web applications.
 
