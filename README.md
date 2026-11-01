@@ -51,7 +51,7 @@ I'm a **B.Tech Computer Science student specializing in Artificial Intelligence 
 ## 🧰 Technologies & tools
 
 **Languages**  
-`Python` `Java` `C++` `PHP` `JavaScript` `HTML` `CSS` `SQL`
+`C++` `Java` `Python` `PHP` `JavaScript` `HTML` `CSS` `SQL`
 
 **Areas of interest**  
 `Machine Learning` `Deep Learning` `NLP` `LLMs` `Computer Vision` `3D ML` `Data Analysis` `DSA`
