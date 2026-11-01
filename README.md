@@ -1,4 +1,4 @@
-# Hi, I'm Supraj 👋
+# Hi, I'm Supraakash 👋
 
 I build practical software and machine-learning projects—from computer vision and data analysis to games, productivity tools, and web experiences.
 
