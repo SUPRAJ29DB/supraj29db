@@ -45,7 +45,7 @@ I'm a **B.Tech Computer Science student specializing in Artificial Intelligence 
 
 - [LeetCode](https://github.com/SUPRAJ29DB/LEETCODE) · [HackerRank](https://github.com/SUPRAJ29DB/hackerrank)
 - [DSA](https://github.com/SUPRAJ29DB/DSA) · [DSA 2](https://github.com/SUPRAJ29DB/DSA2) · [SDE Sheet](https://github.com/SUPRAJ29DB/SDE-SHEET)
-- [Algorithms](https://github.com/SUPRAJ29DB/ALGORITHM) · [Programming Algorithms](https://github.com/SUPRAJ29DB/programming-algorithm)
+- [Algorithms](https://github.com/SUPRAJ29DB/ALGORITHM)
 - [Java practice](https://github.com/SUPRAJ29DB/JAVA) · [Sorting Algorithms](https://github.com/SUPRAJ29DB/Title-Sorting-Algorithms-in-Python-or-C-Java-etc.-)
 
 ## 🧰 Technologies & tools
